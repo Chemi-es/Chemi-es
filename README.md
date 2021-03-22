@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ Chemi-es
+- 👋 Hi, I'm @Chemi-es
 
 - 👀 I am interested in programming, I am a program developer on 3270 platforms but I want to know more environments and take advantage of opensource solutions to try to help and learn more about other languages and systems.
 
